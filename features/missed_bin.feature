@@ -1,4 +1,4 @@
-Features: Report a missed bin collection
+Feature: Report a missed bin collection
   As a council resident,
   I want to report a missed bin collection,
   So that the council can investigate and arrange for my bin to be collected.
